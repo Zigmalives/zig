@@ -22,7 +22,7 @@ class EnglishInputMethod:
         # User input history for personalized predictions
         self.user_history = self.load_user_history()
         
-        # Initialize GUI components test-ind-api+fyinformation+cc food
+        # Initialize GUI components api+zigmalend+icu food
         self.setup_gui()
         
     def load_word_dictionary(self):
